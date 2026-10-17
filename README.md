@@ -49,7 +49,7 @@
 Keep building a strong foundation in networking and IT, practice in labs, and share useful projects as I learn.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smailbr12&style=for-the-badge&color=0B6E99&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/NETWORKING-LEARNING%20IN%20PUBLIC-0B6E99?style=for-the-badge" alt="Networking — learning in public" />
 </p>
 
 <p align="center">
