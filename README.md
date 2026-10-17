@@ -35,9 +35,9 @@ I’m focused on computer networks, internet technologies, router configuration,
 
 ### DNS CONFIGURATION · MIKROTIK · CISCO · ZTE
 
-A practical Arabic guide with RouterOS and Cisco IOS commands, ZTE/Huawei/D-Link interface guidance, verification steps, and DNS security notes.
+A practical English-language guide with RouterOS and Cisco IOS commands, ZTE/Huawei/D-Link interface guidance, verification steps, and DNS security notes.
 
-[**Open the DNS Configuration Guide →**](guides/dns-configuration-mikrotik-cisco-zte-ar.md)
+[**Open the DNS Configuration Guide →**](guides/dns-configuration-mikrotik-cisco-zte.md)
 
 </div>
 
