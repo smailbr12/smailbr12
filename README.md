@@ -29,15 +29,14 @@ I’m focused on computer networks, internet technologies, router configuration,
 
 </div>
 
-## ◈ FEATURED FIELD GUIDE
+## ◈ FIELD GUIDES
 
 <div align="center">
 
-### DNS CONFIGURATION · MIKROTIK · CISCO · ZTE
-
-A practical English-language guide with RouterOS and Cisco IOS commands, ZTE/Huawei/D-Link interface guidance, verification steps, and DNS security notes.
-
-[**Open the DNS Configuration Guide →**](guides/dns-configuration-mikrotik-cisco-zte.md)
+| GUIDE | TOPICS |
+|:--|:--|
+| [**DHCP Configuration Field Guide →**](guides/dhcp-configuration-mikrotik-cisco-zte.md) | MikroTik, Cisco, ZTE, Huawei, D-Link · scopes, leases, reservations, relay, and troubleshooting |
+| [**DNS Configuration Field Guide →**](guides/dns-configuration-mikrotik-cisco-zte.md) | MikroTik, Cisco, ZTE, Huawei, D-Link · DNS settings, verification, and security |
 
 </div>
 
