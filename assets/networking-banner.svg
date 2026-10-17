@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Ismail Br — Network Systems</title>
+<desc id="desc">Custom dark navy and cyan networking illustration with connected nodes and a router.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset=".55" stop-color="#102a43"/><stop offset="1" stop-color="#064e5d"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#b9f3ff" stroke-opacity=".055"/></pattern>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="1200" height="420" rx="30" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="30" fill="url(#grid)"/>
+<path d="M0 335C190 270 285 440 475 350S790 220 1200 305" fill="none" stroke="#22d3ee" stroke-opacity=".10" stroke-width="70"/>
+<circle cx="1000" cy="210" r="142" fill="#22d3ee" opacity=".08" filter="url(#shadow)"/>
+<g fill="none" stroke="url(#glow)" stroke-width="2" opacity=".68">
+  <path d="M850 94h90l38 38h93"/><path d="M850 210h83l44-44h94"/><path d="M850 326h92l37-37h95"/>
+  <path d="M1008 132v34m0 44v-44m0 122v-77"/>
+</g>
+<g fill="#22d3ee"><circle cx="940" cy="94" r="4"/><circle cx="1071" cy="132" r="4"/><circle cx="933" cy="210" r="4"/><circle cx="1077" cy="166" r="4"/><circle cx="942" cy="326" r="4"/><circle cx="1079" cy="289" r="4"/></g>
+<g transform="translate(886 177)">
+  <rect x="0" y="0" width="222" height="70" rx="16" fill="#06101c" stroke="#22d3ee" stroke-width="2"/>
+  <path d="M24 23c12-13 31-13 43 0M32 32c7-7 19-7 26 0M40 41c3-3 7-3 10 0" fill="none" stroke="#67e8f9" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="45" cy="49" r="2.5" fill="#67e8f9"/>
+  <path d="M91 25h102M91 37h82M91 49h62" stroke="#31546a" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="194" cy="50" r="4" fill="#4ade80"/><circle cx="180" cy="50" r="4" fill="#22d3ee"/>
+  <path d="M42-8v-12m138 12v-12M48 70v14m126-14v14" stroke="#8be9f9" stroke-width="2" opacity=".7"/>
+</g>
+<text x="78" y="100" fill="#67e8f9" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="5">NETWORKING • ROUTING • IT</text>
+<text x="72" y="205" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="800" letter-spacing="1">ISMAIL BR</text>
+<rect x="78" y="232" width="104" height="5" rx="3" fill="url(#glow)"/>
+<text x="78" y="282" fill="#d7e8f2" font-family="Arial,Helvetica,sans-serif" font-size="22">Connecting systems. Building practical skills.</text>
+<text x="78" y="338" fill="#9fb8c8" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3">D-LINK  /  HUAWEI  /  CISCO  /  MIKROTIK  /  ZTE</text>
+<text x="78" y="382" fill="#67e8f9" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2">LEARN • CONFIGURE • TROUBLESHOOT</text>
+</svg>
