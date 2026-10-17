@@ -5,42 +5,47 @@
 </div>
 
 <div align="center">
-  <h1>ISMAIL BR</h1>
-  <h3>NETWORKING &nbsp;•&nbsp; ROUTING &nbsp;•&nbsp; IT</h3>
-  <p><b>Connecting systems. Building practical skills.</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/NETWORKING-CORE%20FOCUS-06B6D4?style=for-the-badge&labelColor=0B1220" alt="Networking core focus" />
-    <img src="https://img.shields.io/badge/LEARNING-BY%20DOING-8B5CF6?style=for-the-badge&labelColor=0B1220" alt="Learning by doing" />
-    <img src="https://img.shields.io/badge/IT-FOUNDATIONS-22C55E?style=for-the-badge&labelColor=0B1220" alt="IT foundations" />
-  </p>
+
+### BUILDING A STRONG FOUNDATION IN NETWORKING & IT
+
+**Learn the technology. Configure the network. Solve the problem.**
+
+<a href="#field-guides"><img src="https://img.shields.io/badge/01-FIELD%20GUIDES-22D3EE?style=for-the-badge&labelColor=0B1220" alt="Jump to field guides" /></a>
+<a href="#network-platforms"><img src="https://img.shields.io/badge/02-PLATFORMS-8B5CF6?style=for-the-badge&labelColor=0B1220" alt="Jump to platforms" /></a>
+<a href="#skills-in-progress"><img src="https://img.shields.io/badge/03-SKILLS-F59E0B?style=for-the-badge&labelColor=0B1220" alt="Jump to skills" /></a>
+
 </div>
 
 ---
 
-## ◈ THE NETWORKING PATH
+## ⚡ PROFESSIONAL FOCUS
 
-I’m focused on computer networks, internet technologies, router configuration, and practical troubleshooting. I’m building my knowledge step by step through labs, hands-on practice, and continuous learning.
+I’m focused on computer networks, internet technologies, router configuration, and practical troubleshooting. I’m growing my skills through hands-on practice, lab work, and clear technical notes.
 
 <div align="center">
 
-| **CONNECT** | **CONFIGURE** | **TROUBLESHOOT** | **IMPROVE** |
+| 🌐 **CONNECT** | 🛠️ **CONFIGURE** | 🔎 **TROUBLESHOOT** | 🚀 **IMPROVE** |
 |:---:|:---:|:---:|:---:|
-| Understand the network | Work with router platforms | Find and resolve issues | Document what I learn |
+| Understand the network | Work with router platforms | Find the root cause | Document and keep learning |
 
 </div>
 
-## ◈ FIELD GUIDES
+<a id="field-guides"></a>
+
+## 📚 FIELD GUIDES
 
 <div align="center">
 
-| GUIDE | TOPICS |
+| GUIDE | WHAT YOU'LL FIND |
 |:--|:--|
-| [**DHCP Configuration Field Guide →**](guides/dhcp-configuration-mikrotik-cisco-zte.md) | MikroTik, Cisco, ZTE, Huawei, D-Link · scopes, leases, reservations, relay, and troubleshooting |
-| [**DNS Configuration Field Guide →**](guides/dns-configuration-mikrotik-cisco-zte.md) | MikroTik, Cisco, ZTE, Huawei, D-Link · DNS settings, verification, and security |
+| [**DHCP Configuration Field Guide →**](guides/dhcp-configuration-mikrotik-cisco-zte.md) | MikroTik and Cisco commands · reservations · relay · ZTE/Huawei/D-Link setup · troubleshooting |
+| [**DNS Configuration Field Guide →**](guides/dns-configuration-mikrotik-cisco-zte.md) | Router and client DNS · MikroTik and Cisco commands · device setup · verification · security |
 
 </div>
 
-## ◈ ROUTER & NETWORK PLATFORMS
+<a id="network-platforms"></a>
+
+## 🎛️ NETWORK PLATFORMS
 
 <div align="center">
   <img src="https://img.shields.io/badge/D--Link-ROUTER%20PLATFORMS-E31E24?style=for-the-badge&logo=dlink&logoColor=white" alt="D-Link router platforms" />
@@ -54,39 +59,42 @@ I’m focused on computer networks, internet technologies, router configuration,
 
 <div align="center">
 
-| AREA | CURRENT FOCUS |
+| NETWORK AREA | LEARNING FOCUS |
 |:--|:--|
-| **Network fundamentals** | TCP/IP, IP addressing, DNS, DHCP, and Wi-Fi |
+| **Core networking** | TCP/IP, IP addressing, DNS, DHCP, and Wi-Fi |
 | **Routing & switching** | Core concepts and platform familiarization |
-| **Router configuration** | Learning device settings and practical setup workflows |
-| **Troubleshooting** | Methodical checks for common connectivity issues |
-| **Linux networking** | Command-line basics and useful network utilities |
+| **Router configuration** | Practical setup workflows across router platforms |
+| **Troubleshooting** | Structured diagnosis of common connectivity issues |
+| **Linux networking** | Command-line fundamentals and useful network utilities |
 
 </div>
 
-## ◈ SKILLS IN PROGRESS
+<a id="skills-in-progress"></a>
+
+## 🧰 SKILLS IN PROGRESS
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-BEGINNER-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python beginner" />
-  <img src="https://img.shields.io/badge/Linux-BASICS-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux basics" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-LEARNING-2563EB?style=for-the-badge&logo=internetprotocol&logoColor=white" alt="TCP/IP learning" />
+  <img src="https://img.shields.io/badge/PYTHON-BEGINNER-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python beginner" />
+  <img src="https://img.shields.io/badge/LINUX-BASICS-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux basics" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-FOUNDATIONS-2563EB?style=for-the-badge&logo=internetprotocol&logoColor=white" alt="TCP/IP foundations" />
+  <img src="https://img.shields.io/badge/LEARNING-HANDS--ON-8B5CF6?style=for-the-badge&labelColor=0B1220" alt="Hands-on learning" />
 </div>
 
-- **Python:** beginner — learning syntax, small scripts, and automation basics.
+- **Python:** beginner level; learning syntax, small scripts, and automation basics.
 - **Linux:** basic command-line use and networking tools.
 - **Networking:** strengthening fundamentals through practice and study.
 
-## ◈ WHAT'S NEXT
+## 🎯 NEXT MILESTONES
 
-- Build a stronger foundation in routing, switching, and network troubleshooting.
+- Build a stronger foundation in routing, switching, and troubleshooting.
 - Practice with D-Link, Huawei, Cisco, MikroTik, and ZTE platforms.
 - Learn Python and Linux tools that support everyday networking tasks.
-- Share useful labs and projects as my experience grows.
+- Keep publishing clear, practical guides as my skills grow.
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=22D3EE&center=true&vCenter=true&width=760&lines=LEARN+%E2%80%A2+CONFIGURE+%E2%80%A2+TROUBLESHOOT;D-Link+%7C+Huawei+%7C+Cisco+%7C+MikroTik+%7C+ZTE;Building+my+networking+skills+one+lab+at+a+time" alt="Learn, configure, troubleshoot" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1400&color=22D3EE&center=true&vCenter=true&width=760&lines=LEARN+%E2%80%A2+CONFIGURE+%E2%80%A2+TROUBLESHOOT;D-Link+%7C+Huawei+%7C+Cisco+%7C+MikroTik+%7C+ZTE;Building+my+networking+skills+one+lab+at+a+time" alt="Learn, configure, troubleshoot" />
   <br/><br/>
   <sub><b>ISMAIL BR</b> &nbsp;|&nbsp; NETWORKING & IT &nbsp;|&nbsp; ALWAYS LEARNING</sub>
 </div>
