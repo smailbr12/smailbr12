@@ -1,55 +1,57 @@
 <!-- Profile README for https://github.com/smailbr12 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:0F766E,100:38BDF8&height=190&section=header&text=Ismail%20Br&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Networking%20%7C%20IT%20%7C%20Python%20Learner&descAlignY=62&descSize=18" alt="Ismail Br — Networking, IT, and Python learner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A35,45:123E78,75:087E8B,100:38BDF8&height=210&section=header&text=ISMAIL%20BR&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=NETWORKING%20%E2%80%A2%20IT%20%E2%80%A2%20PYTHON&descAlignY=63&descSize=18" alt="Ismail Br — Networking, IT, and Python" />
 </div>
 
 <h1 align="center">Hi, I'm Ismail 👋</h1>
 <p align="center">
-  <strong>Network & IT enthusiast</strong> exploring how connected systems work — one practical step at a time.
+  <strong>Network & IT enthusiast</strong><br/>
+  Building practical skills in computer networking, router technologies, Linux, and Python.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=560&lines=Learning+computer+networking;Exploring+TCP%2FIP+and+Linux;Writing+my+first+Python+scripts;Building+skills+through+practice" alt="Learning networking, TCP/IP, Linux, and Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1300&color=38BDF8&center=true&vCenter=true&width=620&lines=Computer+Networking+%26+Internet;D-Link+%7C+Huawei+%7C+Cisco+%7C+MikroTik;TCP%2FIP+%7C+Routing+%7C+Troubleshooting;Python+beginner+%E2%80%94+learning+by+building" alt="Networking, router platforms, and beginner Python" />
 </p>
 
 ---
 
-### 🧭 About me
+### 🌐 Networking focus
 
-- 🌐 Interested in **computer networks, internet technologies, and IT**
-- 📡 Learning the fundamentals of **TCP/IP, routing, switching, and network troubleshooting**
-- 🐧 Exploring **Linux** and command-line basics
-- 🐍 A **beginner in Python**, learning with small scripts and practical exercises
-- 📚 Focused on steady progress, hands-on practice, and sharing what I learn
-
-### 🛠️ Focus areas
-
-<p>
-  <img src="https://img.shields.io/badge/Networking-Learning-0F766E?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking — learning" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-Fundamentals-2563EB?style=for-the-badge&logo=internetprotocol&logoColor=white" alt="TCP/IP fundamentals" />
-  <img src="https://img.shields.io/badge/Linux-Basics-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux basics" />
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python beginner" />
+<p align="center">
+  <img src="https://img.shields.io/badge/D--Link-Router%20Platforms-E31E24?style=for-the-badge&logo=dlink&logoColor=white" alt="D-Link router platforms" />
+  <img src="https://img.shields.io/badge/Huawei-Router%20Platforms-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei router platforms" />
+  <img src="https://img.shields.io/badge/Cisco-Routing%20%26%20Switching-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco routing and switching" />
+  <img src="https://img.shields.io/badge/MikroTik-RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik RouterOS" />
 </p>
 
-### 🌱 Currently learning
+- 📡 Computer networks, internet technologies, TCP/IP, routing, and switching
+- 🔧 Router configuration concepts and practical network troubleshooting
+- 🧭 Exploring IP addressing, DNS, DHCP, Wi-Fi, and network fundamentals
+- 🐧 Linux command line and useful networking tools
 
-| Topic | What I'm exploring |
+### 💻 Tools & learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Beginner%20%7C%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python beginner, currently learning" />
+  <img src="https://img.shields.io/badge/Linux-Basics-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux basics" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-Fundamentals-2563EB?style=for-the-badge&logo=internetprotocol&logoColor=white" alt="TCP/IP fundamentals" />
+</p>
+
+| Area | Current level / focus |
 | --- | --- |
-| Networking | IP addressing, DNS, DHCP, routing, and troubleshooting |
-| Linux | Terminal commands, files, permissions, and networking tools |
-| Python | Variables, conditions, loops, functions, and small automation scripts |
+| Networking | Core concepts, router platforms, and hands-on practice |
+| Python | Beginner — syntax, small scripts, and automation basics |
+| Linux | Command-line fundamentals and networking utilities |
 
-### 🎯 What I'm building toward
+### 🎯 My goal
 
-A strong foundation in networking and IT, supported by practical labs and simple Python tools. This profile will grow as I publish projects and document my learning.
+Keep building a strong foundation in networking and IT, practice in labs, and share useful projects as I learn.
 
-### 📊 GitHub
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=smailbr12&style=flat-square&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=smailbr12&style=for-the-badge&color=0B6E99&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p align="center">
-  <i>Keep learning. Keep connecting. Keep building. 🌐</i>
+  <i>Connect. Configure. Learn. Repeat. 🌐</i>
 </p>
